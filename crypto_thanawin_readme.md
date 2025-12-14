@@ -7,14 +7,14 @@ The application provides live prices, 24h statistics, recent trades, and candles
 
 ---
 
-## ✨ Features
+## Features
 
-- 📈 **Real-time price updates** via Binance WebSocket
-- ⏱ **24h market snapshot** (price change, high, low, volume)
-- 🕯 **Candlestick chart + volume** (historical + live price line)
-- 🔄 **Auto-reconnect WebSocket** for stability
-- 🎨 **Luxury dark UI theme** using CustomTkinter
-- 🧭 **Multi-asset support** (BTC, ETH, SOL, BNB, XRP)
+- **Real-time price updates** via Binance WebSocket
+- **24h market snapshot** (price change, high, low, volume)
+- **Candlestick chart + volume** (historical + live price line)
+- **Auto-reconnect WebSocket** for stability
+- **Luxury dark UI theme** using CustomTkinter
+- **Multi-asset support** (BTC, ETH, SOL, BNB, XRP)
 
 ---
 
@@ -55,7 +55,7 @@ crypto_Thanawin/
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 ### MarketController (Core Logic)
 
@@ -77,7 +77,7 @@ crypto_Thanawin/
 
 ---
 
-## 🎨 UI Design
+## UI Design
 
 - Built with **CustomTkinter** (modern Tkinter)
 - Dark professional theme inspired by trading terminals
@@ -86,12 +86,12 @@ crypto_Thanawin/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/crypto_Thanawin.git
+git clone https://github.com/ThanawinTH/Final_Project-CryptoCurrecyProject.git
 cd crypto_Thanawin
 ```
 
@@ -117,7 +117,7 @@ python app.py
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - `customtkinter` – modern UI framework
 - `matplotlib` – chart rendering
@@ -127,7 +127,7 @@ python app.py
 
 ---
 
-## ⚠️ Notes & Limitations
+## Notes & Limitations
 
 - Uses **Binance public API** (no authentication required)
 - Subject to Binance rate limits
@@ -136,7 +136,7 @@ python app.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add technical indicators (MA, RSI, MACD)
 - Order book & depth chart
@@ -146,18 +146,9 @@ python app.py
 
 ---
 
-## 📜 License
-
-This project is for **learning and educational purposes**.  
-Binance API data belongs to Binance.
-
----
-
 ## 👤 Author
 
-**Thanawin**  
+**Thanawin Thanapornthawan**  
 Crypto Dashboard Project
 
 ---
-
-Happy coding & happy trading 🚀📊
